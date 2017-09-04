@@ -1,0 +1,13 @@
+.status_icon {
+  text-align: center;
+  line-height: 60px;
+
+  @include rem(line-height, 62px);
+  @include rem(margin-bottom, 40px);
+
+  &--error {
+    img {
+      @include rem(width, 72px)
+    }
+  }
+}

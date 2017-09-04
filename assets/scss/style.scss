@@ -1,0 +1,23 @@
+@import "../../node_modules/LykkeFramework/assets/scss/style-minimal.scss";
+@import "../../node_modules/LykkeFramework/assets/scss/style-necessaries.scss";
+
+// elements
+@import '../../node_modules/LykkeFramework/assets/scss/partials/alert';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/list';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/links';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/modificators';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/user';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/spinner';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/assets';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/status_icon';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/modal';
+@import '../../node_modules/LykkeFramework/assets/scss/partials/list_group';
+
+@import 'partials/blocks/subscribe';
+@import 'partials/blocks/support';
+//@import 'partials/nav';
+//@import 'partials/footer';
+@import 'partials/apps';
+
+//necessary for this project
+@import 'partials/content_group';
